@@ -2,7 +2,7 @@ interface Element {
   [key: string]: number | string;
 }
 export interface KeyMap {
-  [key: string]: { zh: string, en: string, icon?: string };
+  [key: string]: { zh: string, en: string, ru: string, icon?: string };
 }
 export interface Plant {
   elements: Element;
