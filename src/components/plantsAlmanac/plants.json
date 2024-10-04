@@ -4,7 +4,8 @@
             "ID": 0,
             "NAME": {
                 "en": "Peashooter",
-                "zh": "豌豆射手"
+                "zh": "豌豆射手",
+                "ru": "Горохострел"
             },
             "PLANTTYPE": "peashooter",
             "CODENAME": "peashooter",
@@ -19,7 +20,8 @@
             "TOUGHNESS": 300,
             "BRIEFINTRODUCTION": {
                 "en": "Shoots peas at the enemy",
-                "zh": "向僵尸发射豌豆"
+                "zh": "向僵尸发射豌豆",
+                "ru": "Стреляет горошинами во врагов"
             },
             "ZENGARDEN": {
                 "PlantPlace": "dirt"
@@ -52,7 +54,8 @@
                 ],
                 "Introduction": {
                     "en": "Peashooters are your first line of defence. They Shoot peas at attacking zombies",
-                    "zh": "豌豆射手是你的第一道防线。他们会向僵尸发射豌豆。"
+                    "zh": "豌豆射手是你的第一道防线。他们会向僵尸发射豌豆。",
+                    "ru": "Горохострелы - твоя первая линия обороны. Он стреляют горошинами во врагов"
                 },
                 "Special": [],
                 "Chat": {
