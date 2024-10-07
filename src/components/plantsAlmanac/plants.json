@@ -4,7 +4,8 @@
             "ID": 0,
             "NAME": {
                 "en": "Peashooter",
-                "zh": "豌豆射手"
+                "zh": "豌豆射手",
+                "ru-RU": "Горохострел"
             },
             "PLANTTYPE": "peashooter",
             "CODENAME": "peashooter",
@@ -65,7 +66,8 @@
             "ID": 1,
             "NAME": {
                 "en": "Sunflower",
-                "zh": "向日葵"
+                "zh": "向日葵",
+                "ru-RU": "Подсолнух"
             },
             "PLANTTYPE": "sunflower",
             "CODENAME": "sunflower",
@@ -123,7 +125,8 @@
             "ID": 2,
             "NAME": {
                 "en": "Wall-nut",
-                "zh": "坚果墙"
+                "zh": "坚果墙",
+                "ru-RU": "Стенорех"
             },
             "PLANTTYPE": "wallnut",
             "CODENAME": "wallnut",
@@ -180,7 +183,8 @@
             "ID": 3,
             "NAME": {
                 "en": "Potato Mine",
-                "zh": "土豆地雷"
+                "zh": "土豆地雷",
+                "ru-RU": "Картофельная мина"
             },
             "PLANTTYPE": "potatomine",
             "CODENAME": "potatomine",
@@ -273,7 +277,8 @@
             "ID": 4,
             "NAME": {
                 "en": "Cabbage-pult",
-                "zh": "卷心菜投手"
+                "zh": "卷心菜投手",
+                "ru-RU": "Капустопульта"
             },
             "PLANTTYPE": "cabbagepult",
             "CODENAME": "cabbagepult",
@@ -341,7 +346,8 @@
             "ID": 5,
             "NAME": {
                 "en": "Bloomerang",
-                "zh": "回旋镖射手"
+                "zh": "回旋镖射手",
+                "ru-RU": "Цветущий бумеранг"
             },
             "PLANTTYPE": "bloomerang",
             "CODENAME": "bloomerang",
@@ -402,7 +408,8 @@
             "ID": 6,
             "NAME": {
                 "en": "Iceberg Lettuce",
-                "zh": "冰冻生菜"
+                "zh": "冰冻生菜",
+                "ru-RU": "Салат-айсберг"
             },
             "PLANTTYPE": "iceburg",
             "CODENAME": "iceburg",
@@ -478,7 +485,8 @@
             "ID": 7,
             "NAME": {
                 "en": "Bonk Choy",
-                "zh": "菜问"
+                "zh": "菜问",
+                "ru-RU": "Бонк-чой"
             },
             "PLANTTYPE": "bonkchoy",
             "CODENAME": "bonkchoy",
@@ -550,7 +558,8 @@
             "ID": 8,
             "NAME": {
                 "en": "Repeater",
-                "zh": "双重射手"
+                "zh": "双重射手",
+                "ru-RU": "Скорострел"
             },
             "PLANTTYPE": "repeater",
             "CODENAME": "repeater",
@@ -622,7 +631,8 @@
             "ID": 9,
             "NAME": {
                 "en": "Mega Gatling Pea",
-                "zh": "超级机枪射手"
+                "zh": "超级机枪射手",
+                "ru-RU": "Мега-горохомёт"
             },
             "PLANTTYPE": "megagatlingpea",
             "CODENAME": "megagatling",
@@ -714,7 +724,8 @@
             "ID": 10,
             "NAME": {
                 "en": "Scaredy Shroom",
-                "zh": "胆小菇"
+                "zh": "胆小菇",
+                "ru-RU": "Трусогриб"
             },
             "PLANTTYPE": "scaredyShroom",
             "CODENAME": "scaredyshroom",
@@ -786,7 +797,8 @@
             "ID": 11,
             "NAME": {
                 "en": "Fume Shroom",
-                "zh": "大喷菇"
+                "zh": "大喷菇",
+                "ru-RU": "Дымогриб"
             },
             "PLANTTYPE": "fumeshroom",
             "CODENAME": "fumeshroom",
@@ -847,7 +859,8 @@
             "ID": 12,
             "NAME": {
                 "en": "Grave Buster",
-                "zh": "噬碑藤"
+                "zh": "噬碑藤",
+                "ru-RU": "Могилоед"
             },
             "PLANTTYPE": "gravebuster",
             "CODENAME": "gravebuster",
@@ -919,7 +932,8 @@
             "ID": 13,
             "NAME": {
                 "en": "Pumpkin",
-                "zh": "南瓜头"
+                "zh": "南瓜头",
+                "ru-RU": "Тыква"
             },
             "PLANTTYPE": "pumpkinhead",
             "CODENAME": "pumpkin",
@@ -976,7 +990,8 @@
             "ID": 14,
             "NAME": {
                 "en": "Pea Vine",
-                "zh": "豌豆藤蔓"
+                "zh": "豌豆藤蔓",
+                "ru-RU": "Гороховая лоза"
             },
             "PLANTTYPE": "peavine",
             "CODENAME": "pvine",
@@ -1050,6 +1065,7 @@
             "NAME": {
                 "en": "Floawer Pot",
                 "zh": "飞天花盆"
+                "ru-RU": "Парящий горшок"
             },
             "PLANTTYPE": "floawerPot",
             "CODENAME": "floawerPot",
@@ -1107,7 +1123,8 @@
             "ID": 16,
             "NAME": {
                 "en": "Fire Peashooter",
-                "zh": "火焰豌豆"
+                "zh": "火焰豌豆",
+                "ru-RU": "Огненный горохострел"
             },
             "PLANTTYPE": "firepeashooter",
             "CODENAME": "firepeashooter",
@@ -1189,7 +1206,8 @@
             "ID": 17,
             "NAME": {
                 "en": "Threepeater",
-                "zh": "三线射手"
+                "zh": "三线射手",
+                "ru-RU": "Тристрел"
             },
             "PLANTTYPE": "threepeater",
             "CODENAME": "threepeater",
@@ -1261,7 +1279,8 @@
             "ID": 18,
             "NAME": {
                 "en": "Primal Peashooter",
-                "zh": "原始豌豆射手"
+                "zh": "原始豌豆射手",
+                "ru-RU": "Первобытный горохострел"
             },
             "PLANTTYPE": "primalpeashooter",
             "CODENAME": "primalpeashooter",
@@ -1333,7 +1352,8 @@
             "ID": 19,
             "NAME": {
                 "en": "Rotobaga",
-                "zh": "旋转芜菁"
+                "zh": "旋转芜菁",
+                "ru-RU": "Пропебрюква"
             },
             "PLANTTYPE": "xshot",
             "CODENAME": "xshot",
@@ -1394,7 +1414,8 @@
             "ID": 20,
             "NAME": {
                 "en": "Homing Thistle",
-                "zh": "导向蓟"
+                "zh": "导向蓟",
+                "ru-RU": "Чертонавод"
             },
             "PLANTTYPE": "homingthistle",
             "CODENAME": "homingthistle",
@@ -1455,7 +1476,8 @@
             "ID": 21,
             "NAME": {
                 "en": "Starfruit",
-                "zh": "星星果"
+                "zh": "星星果",
+                "ru-RU": "Звездофрукт"
             },
             "PLANTTYPE": "starfruit",
             "CODENAME": "starfruit",
@@ -1516,7 +1538,8 @@
             "ID": 22,
             "NAME": {
                 "en": "Shooting Starfruit",
-                "zh": "流星果"
+                "zh": "流星果",
+                "ru-RU": "Звездопадный фрукт"
             },
             "PLANTTYPE": "shootingstarfruit",
             "CODENAME": "shootingstarfruit",
@@ -1577,7 +1600,8 @@
             "ID": 23,
             "NAME": {
                 "en": "Lily Pad",
-                "zh": "莲叶"
+                "zh": "莲叶",
+                "ru-RU": "Кувшинка"
             },
             "PLANTTYPE": "lilypad",
             "CODENAME": "lilypad",
@@ -1635,7 +1659,8 @@
             "ID": 24,
             "NAME": {
                 "en": "Sun-shroom",
-                "zh": "阳光菇"
+                "zh": "阳光菇",
+                "ru-RU": "Солнцегриб"
             },
             "PLANTTYPE": "sunshroom",
             "CODENAME": "sunshroom",
@@ -1693,7 +1718,8 @@
             "ID": 25,
             "NAME": {
                 "en": "Twin Sunflower",
-                "zh": "双胞向日葵"
+                "zh": "双胞向日葵", 
+                "ru-RU": "Двойной подсолнух"
             },
             "PLANTTYPE": "twinsunflower",
             "CODENAME": "twinsunflower",
@@ -1762,7 +1788,8 @@
             "ID": 26,
             "NAME": {
                 "en": "Dragon Bruit",
-                "zh": "暴君火龙果"
+                "zh": "暴君火龙果", 
+                "ru-RU": "Драконошиб"
             },
             "PLANTTYPE": "dragonbruit",
             "CODENAME": "dragonbruit",
@@ -1827,7 +1854,8 @@
             "ID": 27,
             "NAME": {
                 "en": "Moonflower",
-                "zh": "月光花"
+                "zh": "月光花",
+                "ru-RU": "Лунный цветок"
             },
             "PLANTTYPE": "moonflower",
             "CODENAME": "moonflower",
@@ -1895,7 +1923,8 @@
             "ID": 28,
             "NAME": {
                 "en": "Snow Pea",
-                "zh": "寒冰射手"
+                "zh": "寒冰射手",
+                "ru-RU": "Ледяной горохострел"
             },
             "PLANTTYPE": "snowpea",
             "CODENAME": "snowpea",
@@ -1977,7 +2006,8 @@
             "ID": 29,
             "NAME": {
                 "en": "Lightning Reed",
-                "zh": "闪电芦苇"
+                "zh": "闪电芦苇",
+                "ru-RU": "Электрокамыш"
             },
             "PLANTTYPE": "lightningreed",
             "CODENAME": "lightningreed",
@@ -2045,7 +2075,8 @@
             "ID": 30,
             "NAME": {
                 "en": "Kernel-pult",
-                "zh": "玉米投手"
+                "zh": "玉米投手",
+                "ru-RU": "Зернопульта"
             },
             "PLANTTYPE": "kernelpult",
             "CODENAME": "kernelpult",
@@ -2134,7 +2165,8 @@
             "ID": 31,
             "NAME": {
                 "en": "Meteor Flower",
-                "zh": "流星花"
+                "zh": "流星花",
+                "ru-RU": "Метеоритный цветок"
             },
             "PLANTTYPE": "meteorflower",
             "CODENAME": "meteorflower",
@@ -2195,7 +2227,8 @@
             "ID": 32,
             "NAME": {
                 "en": "Spring Bean",
-                "zh": "弹簧豆"
+                "zh": "弹簧豆",
+                "ru-RU": "Пружинный боб"
             },
             "PLANTTYPE": "springbean",
             "CODENAME": "springbean",
@@ -2288,7 +2321,8 @@
             "ID": 33,
             "NAME": {
                 "en": "Umbrella Leaf",
-                "zh": "伞叶"
+                "zh": "伞叶",
+                "ru-RU": "Зонтолист"
             },
             "PLANTTYPE": "umbrella",
             "CODENAME": "umbrellaleaf",
@@ -2373,7 +2407,8 @@
             "ID": 34,
             "NAME": {
                 "en": "Melon-pult",
-                "zh": "西瓜投手"
+                "zh": "西瓜投手",
+                "ru-RU": "Арбузопульта"
             },
             "PLANTTYPE": "melonpult",
             "CODENAME": "melonpult",
@@ -2452,7 +2487,8 @@
             "ID": 35,
             "NAME": {
                 "en": "Winter Melon",
-                "zh": "冰西瓜"
+                "zh": "冰西瓜",
+                "ru-RU": "Ледяная арбузопульта"
             },
             "PLANTTYPE": "wintermelon",
             "CODENAME": "wintermelon",
@@ -2538,7 +2574,8 @@
             "ID": 36,
             "NAME": {
                 "en": "Blover",
-                "zh": "三叶草"
+                "zh": "三叶草",
+                "ru-RU": "Ветродуй"
             },
             "PLANTTYPE": "blover",
             "CODENAME": "blover",
@@ -2611,7 +2648,8 @@
             "ID": 37,
             "NAME": {
                 "en": "Spikeweed",
-                "zh": "地刺"
+                "zh": "地刺",
+                "ru-RU": "Колючка"
             },
             "PLANTTYPE": "spikeweed",
             "CODENAME": "spikeweed",
@@ -2693,7 +2731,8 @@
             "ID": 38,
             "NAME": {
                 "en": "Spikerock",
-                "zh": "钢地刺"
+                "zh": "钢地刺",
+                "ru-RU": "Каменная колючка"
             },
             "PLANTTYPE": "spikerock",
             "CODENAME": "spikerock",
@@ -2776,7 +2815,8 @@
             "ID": 39,
             "NAME": {
                 "en": "Chomper",
-                "zh": "大嘴花"
+                "zh": "大嘴花",
+                "ru-RU": "Зубастик"
             },
             "PLANTTYPE": "chomper",
             "CODENAME": "chomper",
@@ -2844,7 +2884,8 @@
             "ID": 40,
             "NAME": {
                 "en": "Ice Shroom",
-                "zh": "寒冰菇"
+                "zh": "寒冰菇",
+                "ru-RU": "Ледогриб"
             },
             "PLANTTYPE": "glacierShroom",
             "CODENAME": "glaciershroom",
@@ -2951,7 +2992,8 @@
             "ID": 41,
             "NAME": {
                 "en": "Primal Wall-nut",
-                "zh": "原始坚果墙"
+                "zh": "原始坚果墙",
+                "ru-RU": "Первобытный стенорех"
             },
             "PLANTTYPE": "primalwallnut",
             "CODENAME": "primalwallnut",
@@ -3019,7 +3061,8 @@
             "ID": 42,
             "NAME": {
                 "en": "Buttercup",
-                "zh": "黄油毛茛"
+                "zh": "黄油毛茛",
+                "ru-RU": "Маслютик"
             },
             "PLANTTYPE": "buttercup",
             "CODENAME": "buttercup",
@@ -3091,7 +3134,8 @@
             "ID": 43,
             "NAME": {
                 "en": "Banana Launcher",
-                "zh": "香蕉火箭炮"
+                "zh": "香蕉火箭炮",
+                "ru-RU": "Бананомёт"
             },
             "PLANTTYPE": "banana",
             "CODENAME": "banana",
@@ -3183,7 +3227,8 @@
             "ID": 44,
             "NAME": {
                 "en": "Missile Toe",
-                "zh": "榭寄冰仙子"
+                "zh": "榭寄冰仙子",
+                "ru-RU": "Ракетомела"
             },
             "PLANTTYPE": "missiletoe",
             "CODENAME": "missiletoe",
@@ -3282,7 +3327,8 @@
             "ID": 45,
             "NAME": {
                 "en": "Cherry Bomb",
-                "zh": "樱桃炸弹"
+                "zh": "樱桃炸弹",
+                "ru-RU": "Вишнёвая бомба"
             },
             "PLANTTYPE": "cherribomb",
             "CODENAME": "cherry_bomb",
@@ -3352,7 +3398,8 @@
             "ID": 46,
             "NAME": {
                 "en": "Doom Shroom",
-                "zh": "毁灭菇"
+                "zh": "毁灭菇",
+                "ru-RU": "Гриб судьбы"
             },
             "PLANTTYPE": "doomshroom",
             "CODENAME": "doomshroom",
@@ -3422,7 +3469,8 @@
             "ID": 47,
             "NAME": {
                 "en": "Cran Jelly",
-                "zh": "果冻蔓越莓"
+                "zh": "果冻蔓越莓",
+                "ru-RU": "Желейная клюква"
             },
             "PLANTTYPE": "cranjelly",
             "CODENAME": "cranjelly",
@@ -3489,7 +3537,8 @@
             "ID": 48,
             "NAME": {
                 "en": "Baby Dragon Bruit",
-                "zh": "小暴君火龙果"
+                "zh": "小暴君火龙果",
+                "ru-RU": "Маленький драконошиб"
             },
             "PLANTTYPE": "dragonbruitBaby",
             "CODENAME": "dragonbabybruit",
@@ -3561,7 +3610,8 @@
             "ID": 49,
             "NAME": {
                 "en": "Torchwood",
-                "zh": "火炬树桩"
+                "zh": "火炬树桩",
+                "ru-RU": "Древофакел"
             },
             "PLANTTYPE": "torchwood",
             "CODENAME": "torchwood",
@@ -3671,7 +3721,8 @@
             "ID": 50,
             "NAME": {
                 "en": "Jalapeno",
-                "zh": "火爆辣椒"
+                "zh": "火爆辣椒",
+                "ru-RU": "Халапеньо"
             },
             "PLANTTYPE": "jalapeno",
             "CODENAME": "jalapeno",
@@ -3741,7 +3792,8 @@
             "ID": 51,
             "NAME": {
                 "en": "Puff-shroom",
-                "zh": "小喷菇"
+                "zh": "小喷菇",
+                "ru-RU": "Пуфгриб"
             },
             "PLANTTYPE": "puffshroom",
             "CODENAME": "puffshroom",
@@ -3820,7 +3872,8 @@
             "ID": 52,
             "NAME": {
                 "en": "Gloom Vine",
-                "zh": "忧郁藤蔓"
+                "zh": "忧郁藤蔓",
+                "ru-RU": "Мраколоза"
             },
             "PLANTTYPE": "gloomvine",
             "CODENAME": "gloomvine",
@@ -3892,7 +3945,8 @@
             "ID": 53,
             "NAME": {
                 "en": "Vamporcini",
-                "zh": "吸血牛肝菌"
+                "zh": "吸血牛肝菌",
+                "ru-RU": "Вампирогриб"
             },
             "PLANTTYPE": "vamporcini",
             "CODENAME": "vamporcini",
@@ -3960,7 +4014,8 @@
             "ID": 54,
             "NAME": {
                 "en": "Primal Potato Mine",
-                "zh": "原始土豆地雷"
+                "zh": "原始土豆地雷",
+                "ru-RU": "Первобытная картофельная мина"
             },
             "PLANTTYPE": "primalpotatomine",
             "CODENAME": "primalpotatomine",
@@ -4046,7 +4101,8 @@
             "ID": 55,
             "NAME": {
                 "en": "Cactus",
-                "zh": "仙人掌"
+                "zh": "仙人掌",
+                "ru-RU": "Кактус"
             },
             "PLANTTYPE": "cactus",
             "CODENAME": "cactus",
@@ -4125,7 +4181,8 @@
             "ID": 56,
             "NAME": {
                 "en": "Power Lily",
-                "zh": "能量花"
+                "zh": "能量花",
+                "ru-RU": "Силовая лилия"
             },
             "PLANTTYPE": "powerlily",
             "CODENAME": "powerlily",
@@ -4191,7 +4248,8 @@
             "ID": 57,
             "NAME": {
                 "en": "Coconut Cannon",
-                "zh": "椰子加农炮"
+                "zh": "椰子加农炮",
+                "ru-RU": "Кокосовая пушка"
             },
             "PLANTTYPE": "coconutcannon",
             "CODENAME": "coconutcannon",
@@ -4273,7 +4331,8 @@
             "ID": 58,
             "NAME": {
                 "en": "Pea Pod",
-                "zh": "豌豆荚"
+                "zh": "豌豆荚",
+                "ru-RU": "Гороховый стручок"
             },
             "PLANTTYPE": "peapod",
             "CODENAME": "peapod",
@@ -4345,7 +4404,8 @@
             "ID": 59,
             "NAME": {
                 "en": "Snap Dragon",
-                "zh": "火龙草"
+                "zh": "火龙草",
+                "ru-RU": "Драконий зев"
             },
             "PLANTTYPE": "snapdragon",
             "CODENAME": "snapdragon",
@@ -4417,7 +4477,8 @@
             "ID": 60,
             "NAME": {
                 "en": "Gatling Pea",
-                "zh": "机枪射手"
+                "zh": "机枪射手",
+                "ru-RU": "Горохомёт"
             },
             "PLANTTYPE": "gatlingpea",
             "CODENAME": "gatling",
@@ -4489,7 +4550,8 @@
             "ID": 61,
             "NAME": {
                 "en": "Split Pea",
-                "zh": "裂荚射手"
+                "zh": "裂荚射手", 
+                "ru-RU": "Сиамский горохострел"
             },
             "PLANTTYPE": "splitpea",
             "CODENAME": "splitpea",
@@ -4561,7 +4623,8 @@
             "ID": 62,
             "NAME": {
                 "en": "Chili Bean",
-                "zh": "巴豆"
+                "zh": "巴豆",
+                "ru-RU": "Чили-боб"
             },
             "PLANTTYPE": "chilibean",
             "CODENAME": "chilibean",
@@ -4657,7 +4720,8 @@
             "ID": 63,
             "NAME": {
                 "en": "Tall-nut",
-                "zh": "高坚果"
+                "zh": "高坚果",
+                "ru-RU": "Высокий стенорех"
             },
             "PLANTTYPE": "tallnut",
             "CODENAME": "tallnut",
@@ -4725,7 +4789,8 @@
             "ID": 64,
             "NAME": {
                 "en": "Hurrikale",
-                "zh": "飓风甘蓝"
+                "zh": "飓风甘蓝",
+                "ru-RU": "Ураганная капуста"
             },
             "PLANTTYPE": "hurrikale",
             "CODENAME": "hurrikale",
@@ -4817,7 +4882,8 @@
             "ID": 65,
             "NAME": {
                 "en": "Stallia",
-                "zh": "眩晕雏菊"
+                "zh": "眩晕雏菊", 
+                "ru-RU": "Георгина"
             },
             "PLANTTYPE": "stallia",
             "CODENAME": "stallia",
@@ -4906,7 +4972,8 @@
             "ID": 66,
             "NAME": {
                 "en": "Electric Peashooter",
-                "zh": "电能豌豆"
+                "zh": "电能豌豆", 
+                "ru-RU": "Электрический	 горохострел"
             },
             "PLANTTYPE": "electricpeashooter",
             "CODENAME": "electricpeashooter",
@@ -4967,7 +5034,8 @@
             "ID": 67,
             "NAME": {
                 "en": "Squash",
-                "zh": "倭瓜"
+                "zh": "倭瓜",
+                "ru-RU": "Кабачок"
             },
             "PLANTTYPE": "squash",
             "CODENAME": "squash",
@@ -5032,7 +5100,8 @@
             "ID": 68,
             "NAME": {
                 "en": "Gloom Shroom",
-                "zh": "忧郁菇"
+                "zh": "忧郁菇",
+                "ru-RU": "Мракогриб"
             },
             "PLANTTYPE": "gloomshroom",
             "CODENAME": "gloomshroom",
@@ -5100,7 +5169,8 @@
             "ID": 69,
             "NAME": {
                 "en": "Magnifying Grass",
-                "zh": "棱镜草"
+                "zh": "棱镜草",
+                "ru-RU": "Призматрава"
             },
             "PLANTTYPE": "magnifyinggrass",
             "CODENAME": "magnifyinggrass",
@@ -5165,7 +5235,8 @@
             "ID": 70,
             "NAME": {
                 "en": "Celery Stalker",
-                "zh": "潜伏芹菜"
+                "zh": "潜伏芹菜",
+                "ru-RU": "Сталкерей"
             },
             "PLANTTYPE": "celerystalker",
             "CODENAME": "celerystalker",
@@ -5226,7 +5297,8 @@
             "ID": 71,
             "NAME": {
                 "en": "Sap-fling",
-                "zh": "树脂投手"
+                "zh": "树脂投手",
+                "ru-RU": "Шишкопульта"
             },
             "PLANTTYPE": "sapfling",
             "CODENAME": "sapfling",
@@ -5304,7 +5376,8 @@
             "ID": 72,
             "NAME": {
                 "en": "Parsnip",
-                "zh": "防风草"
+                "zh": "防风草",
+                "ru-RU": "Пастернак"
             },
             "PLANTTYPE": "parsnip",
             "CODENAME": "parsnip",
@@ -5376,7 +5449,8 @@
             "ID": 73,
             "NAME": {
                 "en": "Explode-O-Nut",
-                "zh": "爆炸坚果"
+                "zh": "爆炸坚果", 
+                "ru-RU": "Взрыворех"
             },
             "PLANTTYPE": "explodeonut",
             "CODENAME": "explodeonut",
@@ -5444,7 +5518,8 @@
             "ID": 74,
             "NAME": {
                 "en": "Grapeshot",
-                "zh": "爆裂葡萄"
+                "zh": "爆裂葡萄",
+                "ru-RU": "Взрывоград"
             },
             "PLANTTYPE": "grapeshot",
             "CODENAME": "grapeshot",
@@ -5514,7 +5589,8 @@
             "ID": 75,
             "NAME": {
                 "en": "Plantern",
-                "zh": "路灯花"
+                "zh": "路灯花",
+                "ru-RU": "Фонарецвет"
             },
             "PLANTTYPE": "plantern",
             "CODENAME": "plantern",
@@ -5602,7 +5678,8 @@
             "ID": 76,
             "NAME": {
                 "en": "Heavenly Peach",
-                "zh": "仙桃"
+                "zh": "仙桃",
+                "ru-RU": "Небесный персик"
             },
             "PLANTTYPE": "heavenlypeach",
             "CODENAME": "peach",
@@ -5667,7 +5744,8 @@
             "ID": 77,
             "NAME": {
                 "en": "Jack O' Lantern",
-                "zh": "杰克南瓜"
+                "zh": "杰克南瓜",
+                "ru-RU": "Светильник Джека"
             },
             "PLANTTYPE": "jackolantern",
             "CODENAME": "jackolantern",
@@ -5735,7 +5813,8 @@
             "ID": 78,
             "NAME": {
                 "en": "Dandelion",
-                "zh": "蒲公英"
+                "zh": "蒲公英",
+                "ru-RU": "Одуванчик"
             },
             "PLANTTYPE": "dandelion",
             "CODENAME": "dandelion",
@@ -5817,7 +5896,8 @@
             "ID": 79,
             "NAME": {
                 "en": "Chard Guard",
-                "zh": "甜菜护卫"
+                "zh": "甜菜护卫",
+                "ru-RU": "Страж-мангольд"
             },
             "PLANTTYPE": "chardguard",
             "CODENAME": "chardguard",
@@ -5874,7 +5954,8 @@
             "ID": 80,
             "NAME": {
                 "en": "Hypno-shroom",
-                "zh": "魅惑菇"
+                "zh": "魅惑菇", 
+                "ru-RU": "Гипногриб"
             },
             "PLANTTYPE": "hypnoshroom",
             "CODENAME": "hypnoshroom",
@@ -5952,7 +6033,8 @@
             "ID": 81,
             "NAME": {
                 "en": "Electric Currant",
-                "zh": "电流醋栗"
+                "zh": "电流醋栗",
+                "ru-RU": "Электрическая смородина"
             },
             "PLANTTYPE": "electriccurrant",
             "CODENAME": "electriccurrant",
@@ -6038,7 +6120,8 @@
             "ID": 82,
             "NAME": {
                 "en": "Escape Root",
-                "zh": "逃脱树根"
+                "zh": "逃脱树根",
+                "ru-RU": "Побег корня"
             },
             "PLANTTYPE": "escaperoot",
             "CODENAME": "escaperoot",
@@ -6114,7 +6197,8 @@
             "ID": 83,
             "NAME": {
                 "en": "Imitater",
-                "zh": "变身茄子"
+                "zh": "变身茄子",
+                "ru-RU": "Имитатор"
             },
             "PLANTTYPE": "imitator",
             "CODENAME": "imitater",
@@ -6169,7 +6253,8 @@
             "ID": 84,
             "NAME": {
                 "en": "Shadow-shroom",
-                "zh": "毒影菇"
+                "zh": "毒影菇",
+                "ru-RU": "Тенегриб"
             },
             "PLANTTYPE": "shadowshroom",
             "CODENAME": "shadowshroom",
@@ -6251,7 +6336,8 @@
             "ID": 85,
             "NAME": {
                 "en": "Magnet-shroom",
-                "zh": "磁力菇"
+                "zh": "磁力菇",
+                "ru-RU": "Магнитогриб"
             },
             "PLANTTYPE": "magnetshroom",
             "CODENAME": "magnetshroom",
@@ -6326,7 +6412,8 @@
             "ID": 86,
             "NAME": {
                 "en": "Resistant Radish",
-                "zh": "白萝卜"
+                "zh": "白萝卜",
+                "ru-RU": "Дайкон"
             },
             "PLANTTYPE": "turnip",
             "CODENAME": "turnip",
@@ -6394,7 +6481,8 @@
             "ID": 87,
             "NAME": {
                 "en": "E.M. Peach",
-                "zh": "脉冲黄桃"
+                "zh": "脉冲黄桃",
+                "ru-RU": "Э.М.Персик"
             },
             "PLANTTYPE": "empeach",
             "CODENAME": "empea",
@@ -6470,7 +6558,8 @@
             "ID": 88,
             "NAME": {
                 "en": "Citron",
-                "zh": "充能柚子"
+                "zh": "充能柚子",
+                "ru-RU": "Цитрон"
             },
             "PLANTTYPE": "citron",
             "CODENAME": "citron",
@@ -6528,7 +6617,8 @@
             "ID": 89,
             "NAME": {
                 "en": "Laser Bean",
-                "zh": "激光豆"
+                "zh": "激光豆",
+                "ru-RU": "Лазерный боб"
             },
             "PLANTTYPE": "laserbean",
             "CODENAME": "laser_bean",
@@ -6600,7 +6690,8 @@
             "ID": 89,
             "NAME": {
                 "en": "Solar Tomato",
-                "zh": "阳光番茄"
+                "zh": "阳光番茄",
+                "ru-RU": "Солнечный боб"
             },
             "PLANTTYPE": "solartomato",
             "CODENAME": "solartomato",
